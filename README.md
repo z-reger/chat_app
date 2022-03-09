@@ -1,5 +1,4 @@
 # Getting Started with Create React App
-
 to view click the link
 https://priceless-northcutt-365d82.netlify.app/
 
